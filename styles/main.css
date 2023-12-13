@@ -1,0 +1,34 @@
+.nav_bar {
+    border-bottom: 1px solid black;
+}
+
+.nav_bar a {
+    font-size: 24px;
+    text-decoration: none;
+}
+
+#title_name {
+    font-size: 3.5rem;
+}
+
+.homepage_project_image {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    background-color: #131654;
+}
+ img {opacity: 0.8;}
+
+ img:hover {opacity: 1.0;}
+ 
+.project_card_name  {
+    text-align: center;
+}
+
+.project_card_about {
+    text-align: center;
+}
+
+.project_page_description {
+    margin-top: 1%;
+}
